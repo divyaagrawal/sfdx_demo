@@ -8,7 +8,7 @@
         <members>*</members>
         <name>ApexComponent</name>
     </types>
-    
+
     <types>
         <members>*</members>
         <name>ApexPage</name>
@@ -34,4 +34,5 @@
         <name>StaticResource</name>
     </types>
     <version>48.0</version>
+    
 </Package>
